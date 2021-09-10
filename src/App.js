@@ -67,7 +67,7 @@ function App() {
               </a>
             </h1>
             <h3>{userData.location}</h3>
-            <h3>{userData.bio} @ working at: {userData.company}</h3>
+            <h3>{userData.bio} - working at: {userData.company}</h3>
             <h5>Public repos: {userData.public_repos} // Following: {userData.following} // Followers: {userData.followers}</h5>
             <h5>
               <a href={userData.blog} target="_new" className="text-info">
