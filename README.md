@@ -13,9 +13,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - After click shows data about the user; Company, email, followers, following, etc.
 
 
--- Using github api.
--- React app.
--- Bootstrap.
+// Using github api.
+// React app.
+// Bootstrap.
+<br>
 
 
 @clarcolaco set/2021
